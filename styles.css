@@ -1,11 +1,9 @@
 /*  your css code here. If applicable */
-.image1>div>img{
+img{
 	height: 200px;
 }
 .image1{
 	margin-bottom: 40px;
 }
-#head{
-	display:flex;
-	justify-content: center;
-}
+
+
